@@ -77,7 +77,7 @@
   - Increased humanoid robot knee joint range of motion (*ROM*) by 20% (125° to 150°), enhancing walking performance and flexibility
   - Resolved 10+ assembly issues by auditing and standardizing screws and fasteners, improving manufacturing efficiency
   - Developed 3+ footplate designs in SolidWorks, reducing operational noise and improving dynamic stability
-  - Created 5+ simulation-ready URDF files using SW2URDF plugin for Mujoco and Blender testing
+  - Created 2+ simulation-ready URDF files using SW2URDF plugin for Mujoco
   - Submitted weekly technical reports to Hardware Manager, ensuring project progress and accountability
 ]
 
