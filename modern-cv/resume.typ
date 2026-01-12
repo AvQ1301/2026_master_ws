@@ -4,7 +4,7 @@
   author: (
     firstname: "Quan",
     lastname: "Vo",
-    email: "quan.va300475@example.com",
+    email: "quan.va300475@gmail.com",
     // homepage: "https://example.com",
     // phone: "(+1) 111-111-1111",
     // github: "DeveloperPaul123",
