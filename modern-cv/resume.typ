@@ -99,7 +99,7 @@
 
 #resume-entry(
   title: "Chinese Robot Chess",
-  location: "Lab.307, HUST",
+  location: "Team Project",
   date: "Nov. 2025 - Present",
   description: "Project Leader",
 )
