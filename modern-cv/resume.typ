@@ -57,7 +57,7 @@
 #resume-entry(
   title: "Internship Student - Research Assistant",
   location: "Nagoya, Japan",
-  date: "Oct. 2024 - Present",
+  date: "Oct. 2024 - Jan. 2025",
   description: "Laser Science Laboratory - Toyota Technological Institute",
 )
 #resume-item[
@@ -99,14 +99,15 @@
 
 #resume-entry(
   title: "Chinese Robot Chess",
-  location: "Team Project",
-  date: "Nov. 2025 - Present",
-  description: "Project Leader",
+  location: "Personal Project",
+  date: "Nov. 2025 - On-going",
+  description: "Team Leader",
 )
 #resume-item[
-  - Led development of robotic system for Chinese chess (Xiangqi) automation
-  - Coordinated team activities and managed project timeline and deliverables
-  - Designed mechanical components and control systems for chess piece manipulation
+  - Led a team of 5 in research on path planning and computer vision for a chess robot
+  - Designed a classic SCARA-type manipulator with integrated suction gripper
+  - Utilized ROS2 as middleware for robot control
+  - Applied YOLO8n model for Chinese character detection
 ]
 #linebreak()
 #resume-entry(
@@ -219,8 +220,8 @@
 #resume-language-item(
   "Languages",
   (
-    strong("English (expected TOEIC 750 in March 2026)"),
-    strong("Japanese (expected JLPT N3 in December 2026)"), 
+    strong("English (expected IETLS 7.0 in March 2026)"),
+    // strong("Japanese (expected JLPT N3 in December 2026)"), 
     strong("Vietnamese (Native)"),
   ),
 )
